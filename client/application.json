@@ -4,5 +4,10 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "8b387911",
   "uiCommonVersion": "5.1.2",
-  "creatorId": "gdljrome"
+  "creatorId": "gdljrome",
+  "id": "mantisreportissues",
+  "previewImageURL": "/previews/8b387911-mantisreportissues/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/juanmrom/mantisReportIssues",
+  "creatorName": "Juan Romero"
 }
