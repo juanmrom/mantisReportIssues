@@ -1,17 +1,17 @@
 {
   "IssuesList": [
     {
-      "id": "1",
+      "id": "00001",
       "severity": "p1",
       "summary": "server down"
     },
     {
-      "id": "2",
+      "id": "00002",
       "severity": "p2",
       "summary": "server startup"
     },
     {
-      "id": "3",
+      "id": "00003",
       "severity": "p3",
       "summary": "server shutdown"
     }
