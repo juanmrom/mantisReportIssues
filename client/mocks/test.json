@@ -1,1 +1,19 @@
-{}
+{
+  "IssuesList": [
+    {
+      "id": "1",
+      "severity": "p1",
+      "summary": "server down"
+    },
+    {
+      "id": "2",
+      "severity": "p2",
+      "summary": "server startup"
+    },
+    {
+      "id": "3",
+      "severity": "p3",
+      "summary": "server shutdown"
+    }
+  ]
+}
